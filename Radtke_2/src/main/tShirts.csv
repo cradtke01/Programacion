@@ -1,0 +1,6 @@
+printed,id,material,size
+true,0,cotton,M
+true,1,cotton,M
+false,2,cotton,S
+false,3,cotton,S
+true,4,cotton,S
